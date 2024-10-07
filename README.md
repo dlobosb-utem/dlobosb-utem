@@ -2,7 +2,7 @@
 <h3 align="center">A chilean developer (in progress), pursuing an engineering carreer in computer science and informatics.</h3>
 <h3 align="center"> This is a repository associated to my university email.</h3>
 
-- 🌱 I’m currently learning **Cybersecurity, Machine Learning and Software Development**
+- 🌱 I’m currently learning **Machine Learning, Natural Language Processing and Cybersecurity**
 
 - 📫 How to reach me **dlobosb@utem.cl**
 
