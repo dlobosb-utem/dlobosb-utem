@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Danko</h1>
-<h3 align="center">A chilean developer (in progress), pursuing an engineering carreer in computer science and informatics.</h3>
+<h3 align="center">A chilean computer science engineer graduate (UTEM).</h3>
 <h3 align="center"> This is a repository associated to my university email.</h3>
 
 - 🌱 I’m currently learning **Machine Learning, Natural Language Processing and Cybersecurity**
